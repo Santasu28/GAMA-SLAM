@@ -78,4 +78,4 @@ The animation at the top of this page shows the system interface, dense reconstr
 
 ## Contact
 
-For research enquiries, contact **Tao Yang** (corresponding author): [tyang@nwpu.edu.cn](mailto:tyang@nwpu.edu.cn).
+For research enquiries, contact **Yisu Zhang**: [zhangyisu@mail.nwpu.edu.cn](mailto:zhangyisu@mail.nwpu.edu.cn).

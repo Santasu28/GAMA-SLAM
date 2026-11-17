@@ -80,4 +80,4 @@ NWPU-CW 数据集及其说明文档将在论文录用后公开，届时更新本
 
 ## 联系方式
 
-科研交流请联系通讯作者 **Tao Yang**：[tyang@nwpu.edu.cn](mailto:tyang@nwpu.edu.cn)。
+科研交流请联系 **Yisu Zhang**：[zhangyisu@mail.nwpu.edu.cn](mailto:zhangyisu@mail.nwpu.edu.cn)。
