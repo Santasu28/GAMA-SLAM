@@ -1,0 +1,14 @@
+# Public project introduction and presentation media only.
+*
+!/.gitignore
+!/README.md
+!/README.zh-CN.md
+!/assets/
+!/assets/slam-system-preview.png
+!/assets/gama-slam-demo.mp4
+!/assets/nwpu-cw-dataset.png
+!/assets/nwpu-cw-dataset.pdf
+!/assets/nwpu-cw-dataset-preview.webp
+!/video/
+!/video/slam.gif
+!/video/slam-preview.gif
